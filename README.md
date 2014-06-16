@@ -1,5 +1,4 @@
 ##Sorting
-=================
 
 ### Implementation of Common sorting programs in C
 
