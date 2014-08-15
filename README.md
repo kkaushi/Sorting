@@ -37,7 +37,7 @@ Counting sort is a type of stable sort[if same element occurs in an array, while
 
 
 ### Mergesort
-Best expained in Coreman - http://mitpress.mit.edu/books/introduction-algorithms
+Best expained in _Introduction to Algorithms_ - http://mitpress.mit.edu/books/introduction-algorithms
 
 
 ### Quicksort
